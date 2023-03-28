@@ -1,2 +1,2 @@
 # -Decision-trees-with-training-testing-evaluation-to-measure-a-company-s-ba
-Machine Learning
+This exercise focuses on the use of decision trees for predicting the bankruptcy risk of a company. The evaluation of the model is performed using a training/testing approach, where the model is trained on a subset of the data and tested on the remaining data. The goal is to create a decision tree model that accurately predicts the bankruptcy risk of a company based on a set of input features. The performance of the model is evaluated using metrics such as accuracy, precision, recall, and F1 score. This exercise provides a practical application of decision trees and evaluation techniques for risk assessment in the financial industry.
